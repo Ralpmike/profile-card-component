@@ -105,9 +105,6 @@ span {
   z-index: -1;
 }
 @media only screen and (min-width: 620px) {
-  *{
-    border: 2px solid gray;
-  }
   .header-design {
     margin: 50px auto;
   }
